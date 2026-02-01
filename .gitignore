@@ -1,0 +1,13 @@
+# C / C++ compiled binaries
+*.o
+*.out
+*.exe
+*.bin
+
+# Build directories
+build/
+bin/
+
+# Debug files
+
+*.log
