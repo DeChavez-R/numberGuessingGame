@@ -11,20 +11,20 @@ This is my first GitHub repository and a learning project.
 - Clean, readable C++ code
   
 ## Requirements
-C++11 or later
-g++ / clang++
+- C++11 or later
+- g++ / clang++
 
 ## What I Learned
-Input validation in C++
-Control flow and loops
-Functions and code organization
-Basic random number usage
+- Input validation in C++
+- Control flow and loops
+- Functions and code organization
+- Basic random number usage
 
 ## Future Improvements
-Difficulty levels
-Score tracking
-Modern C++ random (<random>)
-Refactor into classes
+- Difficulty levels
+- Score tracking
+- Modern C++ random (<random>)
+- Refactor into classes
 
 
 ## How to Build and Run
