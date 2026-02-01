@@ -9,6 +9,23 @@ This is my first GitHub repository and a learning project.
 - Limited number of attempts
 - Replay option
 - Clean, readable C++ code
+  
+## Requirements
+C++11 or later
+g++ / clang++
+
+## What I Learned
+Input validation in C++
+Control flow and loops
+Functions and code organization
+Basic random number usage
+
+## Future Improvements
+Difficulty levels
+Score tracking
+Modern C++ random (<random>)
+Refactor into classes
+
 
 ## How to Build and Run
 
@@ -17,16 +34,5 @@ This is my first GitHub repository and a learning project.
 g++ main.cpp -o guessing_game
 ./guessing_game
 
-## Requirements
-C++11 or later
-g++ / clang++
-## What I Learned
-Input validation in C++
-Control flow and loops
-Functions and code organization
-Basic random number usage
-## Future Improvements
-Difficulty levels
-Score tracking
-Modern C++ random (<random>)
-Refactor into classes
+
+
